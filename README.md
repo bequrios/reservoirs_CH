@@ -1,4 +1,4 @@
-# reservoirs_ch
+# Fill levels of Swiss reservoir lakes
 
 Reservoir lakes are basically giant batteries that are able to store and deliver electric energy. The **Swiss Federal Office of Energy** (SFOE) regularly [publishes](https://www.bfe.admin.ch/bfe/en/home/supply/statistics-and-geodata/energy-statistics/electricity-statistics.html) weekly data concerning the current fill level of Swiss reservoir lakes in GWh and the current fraction of the maximum possible fill level. Unfortunately, the data from the SFOE is only available as PDF. This repository provides the data in csv format which was obtained through a PDF scraping of the yearly files from the SFOE. The data ranges from 2003-01-06 until 2020-06-22.
 
