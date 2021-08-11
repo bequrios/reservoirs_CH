@@ -7,14 +7,19 @@ Reservoir lakes are basically giant batteries that are able to store and deliver
 |Value|Description|
 |:---|:---|
 |Date|observation at 00:00 of the corresponding date|
+|VSt|max possible fill level in GWh of reservoirs in the canton Valais (calculated)|
 |VS|current fill level in GWh of reservoirs in the canton Valais|
 |VSp|fraction of the max possible fill level in the canton Valais|
+|GRt|max possible fill level in GWh of reservoirs in the canton Grisons (calculated)|
 |GR|current fill level in GWh of reservoirs in the canton Grisons|
 |GRp|fraction of the max possible fill level in the canton Grisons|
+|TIt|max possible fill level in GWh of reservoirs in the canton Ticino (calculated)|
 |TI|current fill level in GWh of reservoirs in the canton Ticino|
 |TIp|fraction of the max possible fill level in the canton Ticino|
+|rCHt|max possible fill level in GWh of reservoirs in the rest of Switzerland (calculated)|
 |rCH|current fill level in GWh of reservoirs in the rest of Switzerland|
 |rCHp|fraction of the max possible fill level in the rest of Switzerland|
+|CHt|max possible fill level in GWh of reservoirs in whole Switzerland (calculated)|
 |CH|current fill level in GWh of reservoirs in whole Switzerland|
 |CHp|fraction of the max possible fill level in whole Switzerland|
 |Rhm|longtime mean of the daily mean flow of the river Rhine in Basel in m^3/s|
